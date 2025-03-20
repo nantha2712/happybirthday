@@ -1,3 +1,4 @@
+
 html {
   box-sizing: border-box;
 }
@@ -250,7 +251,7 @@ body {
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
   .container {
     width: 90%;
   }
