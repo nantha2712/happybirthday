@@ -61,10 +61,10 @@ body {
 }
 
 .text-box .fake-btn {
-  background-color: rgb(21, 161, 237);
+  background-color: #FFD700;
   border-radius: 3px;
   bottom: -50px;
-  color: #fff;
+  color: black;
   padding: .5rem 1rem;
   position: absolute;
   right: 5px;
